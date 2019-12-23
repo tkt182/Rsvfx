@@ -5,7 +5,40 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Simple.unity
     guid: 639f7ac07673ef2f89c179e52d2fc3b0
+  - enabled: 1
+    path: Assets/Particles.unity
+    guid: 90c0904b868eb93e4903aa8e9cc56fd3
+  - enabled: 0
+    path: Assets/Main.unity
+    guid: 5cc71a5422feb7a4a9c90b3ed28f06fd
+  - enabled: 1
+    path: Assets/Stream.unity
+    guid: 01ff5b065b83ecfd6997089d9b308418
+  - enabled: 1
+    path: Assets/Cubes.unity
+    guid: 83fc5e328cdd44cad8c83e061d808393
+  - enabled: 1
+    path: Assets/Petals.unity
+    guid: 6b7affe8402de93a5a1e6542df94a02c
+  - enabled: 1
+    path: Assets/Plexus.unity
+    guid: 468642998ca6d6537904c38e0f96ca00
+  - enabled: 1
+    path: Assets/Rain.unity
+    guid: 33ac9122ae7129aedb3e55ff04207b34
+  - enabled: 1
+    path: Assets/Scanner.unity
+    guid: 165e9d632a5f75505b54faae73cde273
+  - enabled: 1
+    path: Assets/Squares.unity
+    guid: e60ef071448fde4ab9e24bc7de494987
+  - enabled: 1
+    path: Assets/Triangles.unity
+    guid: c1cb168f50f0f2781ab228a757e7016e
+  - enabled: 1
+    path: Assets/Wiper.unity
+    guid: 53d3e5a1af4c5f49d81b2e5bd2530abb
   m_configObjects: {}
